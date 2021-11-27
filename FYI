@@ -1,0 +1,3 @@
+
+Tuple = () and is used mainly for data that is not going to change.
+List = [] and is used mainly for changeable data/info
