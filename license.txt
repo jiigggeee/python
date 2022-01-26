@@ -1,0 +1,5 @@
+This folder and its contents are licensed as follows:
+
+All programming code is licensed under GNU Affero General Public License v3.0.
+
+All data visualization, data designs, and datasets are licensed under Creative Commons Attribution 4.0 International.
